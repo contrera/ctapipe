@@ -1,0 +1,29 @@
+TelescopeDescription
+====================
+
+.. currentmodule:: ctapipe.instrument
+
+.. autoclass:: TelescopeDescription
+   :show-inheritance:
+
+   .. rubric:: Attributes Summary
+
+   .. autosummary::
+
+      ~TelescopeDescription.camera
+      ~TelescopeDescription.optics
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~TelescopeDescription.guess
+
+   .. rubric:: Attributes Documentation
+
+   .. autoattribute:: camera
+   .. autoattribute:: optics
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: guess
